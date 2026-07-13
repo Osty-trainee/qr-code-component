@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
  -  [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
@@ -28,4 +27,28 @@ This build project with a mobile-first approach, ensuring that the layout looks 
 
 - Live Site URL: (https://osty-trainee.github.io/qr-code-component/)
 
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### Continued development
+
+In the future, I want to focus on site adaptability so that each site can be used on any screen.
+Learn to use JavaScript in your projects and also do the functional side of sites.
+
+### AI Collaboration
+
+- ChatGPT
+- The GPT chat helped me understand unfamiliar CSS tags and learn more about how and when to use different units of measurement for texts.
+
+## Author
+
+- Profile on FrontendMentor (@Osty-trainee)
+- Discord (username: _beautifulrain_)
 
