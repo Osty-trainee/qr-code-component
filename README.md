@@ -21,7 +21,7 @@ This build project with a mobile-first approach, ensuring that the layout looks 
 
 ### Screenshot
 
-<img width="1919" height="994" alt="Screenshot_2" src="https://github.com/user-attachments/assets/146c48fe-4101-46f8-a41c-0c3c8b4799e4" />
+<img width="1919" height="992" alt="Screenshot_3" src="https://github.com/user-attachments/assets/35ddded0-6ed4-4079-92a1-1241b83f9194" />
 
 ### Links
 
